@@ -1,0 +1,11 @@
+{
+  "timezone": "America/Chicago",
+  "weekly": [{ "open": "Fri 06:00", "close": "Mon 06:00" }],
+  "extra_open": [],
+  "closed": [],
+  "kill_switch": false,
+  "min_build": "",
+  "message": "",
+  "discord": "",
+  "dev_steam_ids": []
+}
