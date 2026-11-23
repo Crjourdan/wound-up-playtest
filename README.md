@@ -8,7 +8,7 @@ players within about 10 minutes, no new build needed.
 - `extra_open`: one-off extra sessions, e.g. `{ "from": "2026-11-26T18:00:00-06:00", "to": "2026-11-26T23:00:00-06:00", "note": "Thanksgiving" }`.
 - `closed`: one-off closures (beat everything else), same format.
 - `kill_switch`: `true` closes the playtest for everyone right now.
-- `min_build`: builds older than this label (e.g. `"playtest-2026-10-26d"`) are told to download the new one.
+- `min_build`: builds older than this label (e.g. `"playtest-2026-10-29b"`) are told to download the new one.
 - `message`: a line shown on the closed screen and the title screen ("New build tonight!").
 - `discord`: your invite link, for the "Join the Discord" button.
 - `dev_steam_ids`: extra Steam IDs that are never locked.
