@@ -1,7 +1,7 @@
 {
   "timezone": "America/Chicago",
   "weekly": [{ "open": "Fri 06:00", "close": "Mon 06:00" }],
-  "extra_open": [],
+  "extra_open": [{ "from": "2026-11-25T00:00:00-06:00", "to": "2027-06-30T00:00:00-05:00", "note": "Open to everyone, every day" }],
   "closed": [],
   "kill_switch": false,
   "min_build": "",
