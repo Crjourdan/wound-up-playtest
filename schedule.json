@@ -1,11 +1,11 @@
 {
   "timezone": "America/Chicago",
-  "weekly": [{ "open": "Fri 06:00", "close": "Mon 06:00" }],
+  "weekly": [{ "open": "Fri 06:00", "close": "Mon 19:00" }],
   "extra_open": [{ "from": "2026-11-25T00:00:00-06:00", "to": "2027-06-30T00:00:00-05:00", "note": "Open to everyone, every day" }],
   "closed": [],
   "kill_switch": false,
   "min_build": "",
   "message": "",
-  "discord": "",
-  "dev_steam_ids": []
+  "discord": "https://discord.gg/XRM95VdqYW",
+  "dev_steam_ids": [76561198121743852, 76561198064882589]
 }
